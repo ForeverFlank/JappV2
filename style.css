@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+header {
+  padding: 0px 20px;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  width: 92vw;
+}
+
+h2 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+td, th {
+  padding: 2px;
+  text-align: center;
+  vertical-align: center;
+  font-size: 12px;
+}
+
+tr {
+  height: 50px;
+}
+
+h3, h4, ul, li {
+  margin-bottom: 5px;
+}
+
+li {
+  margin-left: -20px;
+}
+
+footer {
+  font-size: 12px;
+  margin: 20px;
+}
+
+.tab {
+  padding-left: 20px;
+}
+
+.left {
+  width: 45px;
+}
+
+.middle {
+  width: 10px;
+}
